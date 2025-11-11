@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-book-th",
+  "version": "1.0.0",
+  "description": "หนังสือสอนเขียน Front-end ด้วย Next.js ภาษาไทย",
+  "scripts": {
+    "combine:md": "node scripts/combine-markdown.js"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "thai",
+    "tutorial",
+    "book"
+  ],
+  "author": "",
+  "license": "MIT"
+}
